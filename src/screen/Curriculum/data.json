@@ -1,0 +1,34 @@
+{
+    "id": "Maths",
+    "name": "Mathematics",
+    "standards": [
+        {
+            "id": "one",
+            "text": "Number",
+            "indentation": 0
+        },
+        {
+            "id": "two",
+            "text": "Count to determine number of objects in a set",
+            "indentation": 1
+        },
+        {
+            "id": "three",
+            "text": "Measurement",
+            "indentation": 0
+        },
+        {
+            "id": "four",
+            "text": "Use simple fraction names in real life situation",
+            "indentation": 1
+        },
+        {
+            "id": "five",
+            "text": "Describe observations about events and objects in real life situations",
+            "indentation": 2
+        }
+    ]
+             
+}
+
+
