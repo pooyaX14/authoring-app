@@ -43,3 +43,5 @@ const StyledButton = styled.button`
         }
     }
 `
+
+StyledButton.displayName = 'Button';

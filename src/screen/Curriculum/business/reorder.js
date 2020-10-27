@@ -25,7 +25,10 @@ export function moveNodes(standards, from, to) {
         updatedStandards.splice(
             to, 0, ...updatedStandards.splice(from, numberOfNodesToMove)
         );
-        return updatedStandards
+        
+        return updatedStandards;
+    } else {
+        return standards;
     }
 }
 
